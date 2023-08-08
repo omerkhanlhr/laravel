@@ -1,1 +1,1 @@
-In this project i will create full protective login with multiple authentication using postgre sql and laravel.
+In this project i will create full protective login with multiple authentication using postgre sql and laravel
